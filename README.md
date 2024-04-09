@@ -68,8 +68,10 @@ The task involves extracting information from multiple instances of data by pars
 - Description: Primary function responsible for processing incident data from URLs specified in a CSV file.
 
 ## Test Function Descriptions
-- test_Nature.py - This test case assesses the ability of the town_side function to accurately determine the town side by considering the provided bearing angle, thereby ensuring precise directional assignments.
-- test_time.py - The populateDB function is under evaluation to determine its ability to handle invalid datetime formats. This evaluation confirms whether it raises a ValueError when provided with incorrect input.
+### test_Nature.py 
+- This test case assesses the ability of the town_side function to accurately determine the town side by considering the provided bearing angle, thereby ensuring precise directional assignments.
+### test_time.py
+- The populateDB function is under evaluation to determine its ability to handle invalid datetime formats. This evaluation confirms whether it raises a ValueError when provided with incorrect input.
 
 ## Output
 - [Video Output](https://drive.google.com/drive/u/0/folders/1DRVznn_oRCXWsUMo9vDfUhNH_6PlbE6X)
