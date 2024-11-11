@@ -1,4 +1,3 @@
-# CIS6930SP24-ASSIGNMENT2
 
 # Author: Stavan Shah
 
@@ -79,4 +78,4 @@ The task involves extracting information from multiple instances of data by pars
 ## Author 
   - Stavan Shah
   - Email: stavannikhi.shah@ufl.edu
-  - UFID: 76557015
+  
